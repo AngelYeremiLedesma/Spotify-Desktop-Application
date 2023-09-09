@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/PC/Documents/Admon/SpotifyAppF/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SpotifyAppF 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/PC/Documents/Admon/SpotifyAppF/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SpotifyAppF 1.0-SNAPSHOT API'
+com.mycompany.spotifyappf
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/Cancion.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/Login.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/LoginReal.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/MusicaHilos.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/Persona.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/Registrador.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/Reproductor.java'
+'C:/Users/PC/Documents/Admon/SpotifyAppF/src/main/java/com/mycompany/spotifyappf/SonidoAuxiliar.java'
+C:\Users\PC\Documents\Admon\SpotifyAppF\src\main\java = 1622763715232
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\allclasses-frame.html = 1623645827602
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\allclasses-noframe.html = 1623645827603
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\constant-values.html = 1623645827504
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\deprecated-list.html = 1623645827600
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\help-doc.html = 1623645827608
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\index-all.html = 1623645827596
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\index.html = 1623645827605
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\overview-tree.html = 1623645827587
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\package-list = 1623645827477
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\script.js = 1623645827612
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\serialized-form.html = 1623645827526
+C:\Users\PC\Documents\Admon\SpotifyAppF\target\site\apidocs\stylesheet.css = 1623645827611
